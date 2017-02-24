@@ -1,0 +1,4 @@
+git config --global user.name "panyu001"  
+git config --global user.email "1027395347@qq.com" 
+git clone https://github.com/panyu001/myblog.git 
+git clone git@github.com:panyu001/myblog.git
